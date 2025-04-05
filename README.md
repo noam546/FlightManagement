@@ -68,7 +68,7 @@ The system consists of the following services:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 To run this project, make sure you have the following installed on your machine:
 
