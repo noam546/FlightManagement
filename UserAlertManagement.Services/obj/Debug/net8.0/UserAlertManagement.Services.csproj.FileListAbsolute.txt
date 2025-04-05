@@ -1,0 +1,15 @@
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagement.Services/bin/Debug/net8.0/UserAlertManagement.Services.deps.json
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagement.Services/bin/Debug/net8.0/UserAlertManagement.Services.dll
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagement.Services/bin/Debug/net8.0/UserAlertManagement.Services.pdb
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagement.Services/bin/Debug/net8.0/UserAlertManagement.Data.dll
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagement.Services/bin/Debug/net8.0/UserAlertManagement.Data.pdb
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagement.Services/obj/Debug/net8.0/UserAlertManagement.Services.csproj.AssemblyReference.cache
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagement.Services/obj/Debug/net8.0/UserAlertManagement.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagement.Services/obj/Debug/net8.0/UserAlertManagement.Services.AssemblyInfoInputs.cache
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagement.Services/obj/Debug/net8.0/UserAlertManagement.Services.AssemblyInfo.cs
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagement.Services/obj/Debug/net8.0/UserAlertManagement.Services.csproj.CoreCompileInputs.cache
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagement.Services/obj/Debug/net8.0/UserAler.6D9FBBFB.Up2Date
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagement.Services/obj/Debug/net8.0/UserAlertManagement.Services.dll
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagement.Services/obj/Debug/net8.0/refint/UserAlertManagement.Services.dll
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagement.Services/obj/Debug/net8.0/UserAlertManagement.Services.pdb
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagement.Services/obj/Debug/net8.0/ref/UserAlertManagement.Services.dll

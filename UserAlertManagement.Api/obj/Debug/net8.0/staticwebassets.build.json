@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0+aXnQAMFAw1yAFdOU7LEQ5Xeeczi5yKtMkQ2ecNkos=",
+  "Source": "UserAlertManagement.Api",
+  "BasePath": "_content/UserAlertManagement.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,14 @@
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagement.Data/bin/Debug/net8.0/UserAlertManagement.Data.deps.json
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagement.Data/bin/Debug/net8.0/UserAlertManagement.Data.runtimeconfig.json
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagement.Data/bin/Debug/net8.0/UserAlertManagement.Data.dll
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagement.Data/bin/Debug/net8.0/UserAlertManagement.Data.pdb
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagement.Data/obj/Debug/net8.0/UserAlertManagement.Data.csproj.AssemblyReference.cache
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagement.Data/obj/Debug/net8.0/UserAlertManagement.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagement.Data/obj/Debug/net8.0/UserAlertManagement.Data.AssemblyInfoInputs.cache
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagement.Data/obj/Debug/net8.0/UserAlertManagement.Data.AssemblyInfo.cs
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagement.Data/obj/Debug/net8.0/UserAlertManagement.Data.csproj.CoreCompileInputs.cache
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagement.Data/obj/Debug/net8.0/UserAlertManagement.Data.dll
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagement.Data/obj/Debug/net8.0/refint/UserAlertManagement.Data.dll
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagement.Data/obj/Debug/net8.0/UserAlertManagement.Data.pdb
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagement.Data/obj/Debug/net8.0/UserAlertManagement.Data.genruntimeconfig.cache
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagement.Data/obj/Debug/net8.0/ref/UserAlertManagement.Data.dll

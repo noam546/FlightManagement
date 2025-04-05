@@ -1,0 +1,15 @@
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagementService/bin/Debug/net8.0/UserAlertManagementService.deps.json
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagementService/bin/Debug/net8.0/UserAlertManagementService.dll
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagementService/bin/Debug/net8.0/UserAlertManagementService.pdb
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagementService/bin/Debug/net8.0/UserAlertManagement.Data.dll
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagementService/bin/Debug/net8.0/UserAlertManagement.Data.pdb
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagementService/obj/Debug/net8.0/UserAlertManagementService.csproj.AssemblyReference.cache
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagementService/obj/Debug/net8.0/UserAlertManagementService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagementService/obj/Debug/net8.0/UserAlertManagementService.AssemblyInfoInputs.cache
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagementService/obj/Debug/net8.0/UserAlertManagementService.AssemblyInfo.cs
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagementService/obj/Debug/net8.0/UserAlertManagementService.csproj.CoreCompileInputs.cache
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagementService/obj/Debug/net8.0/UserAler.C962F5A4.Up2Date
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagementService/obj/Debug/net8.0/UserAlertManagementService.dll
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagementService/obj/Debug/net8.0/refint/UserAlertManagementService.dll
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagementService/obj/Debug/net8.0/UserAlertManagementService.pdb
+/Users/noammelamed/Downloads/JS/UserAlertManagement/UserAlertManagementService/obj/Debug/net8.0/ref/UserAlertManagementService.dll
