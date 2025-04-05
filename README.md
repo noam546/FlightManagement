@@ -1,10 +1,10 @@
-# ✈️ Flight Alert Notification System
+# Flight Alert Notification System
 
 This project is a backend system for tracking flight deals and notifying users when prices match their saved alerts. It's built using ASP.NET Core and RabbitMQ with a clean, event-driven architecture.
 
 ---
 
-## 🧩 System Overview
+## System Overview
 
 The system consists of the following services:
 
@@ -16,7 +16,13 @@ The system consists of the following services:
 
 ---
 
-## 🔄 Example Flow
+## Architecture Diagram
+
+![Architecture Diagram](ArchitectureDiagram.png)
+
+---
+
+## Example Flow
 
 1. **User Sets Alert**  
    A user opens the mobile app and creates a flight alert:
@@ -59,34 +65,6 @@ The system consists of the following services:
 
 4. **NotificationService Sends Push**  
    The `NotificationService` consumes this alert match event and sends push notifications to the user's mobile device.
-
----
-
-## 📦 Technologies
-
-- **.NET 7 / ASP.NET Core**
-- **RabbitMQ** (event queue)
-- **AutoMapper** (object mapping)
-- **Entity Framework Core** (database access)
-
----
-
-## 📐 Architecture Diagram
-
-```
-[Mobile Client] ────► [AlertService] ─────┐
-                     (save alert)         │
-                                          ▼
-                            [Event Queue (RabbitMQ)]
-                                          ▲
-           [FlightFetcher] ───── publish ─┘
-                                          ▼
-                            [AlertService] ──► match users ──► publish user match event
-                                                                  ▼
-                                                       [NotificationService]
-                                                              ▼
-                                                   (send push notifications)
-```
 
 ---
 
